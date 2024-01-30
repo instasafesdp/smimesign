@@ -13,10 +13,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/github/smimesign/fakeca"
-	"github.com/github/smimesign/ietf-cms/oid"
-	"github.com/github/smimesign/ietf-cms/protocol"
-	"github.com/github/smimesign/ietf-cms/timestamp"
+	"github.com/instasafesdp/smimesign/fakeca"
+	"github.com/instasafesdp/smimesign/ietf-cms/oid"
+	"github.com/instasafesdp/smimesign/ietf-cms/protocol"
+	"github.com/instasafesdp/smimesign/ietf-cms/timestamp"
 )
 
 var (

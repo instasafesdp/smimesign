@@ -1,4 +1,4 @@
-module github.com/github/smimesign
+module github.com/instasafesdp/smimesign
 
 go 1.12
 

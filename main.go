@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/github/smimesign/certstore"
+	"github.com/instasafesdp/smimesign/certstore"
 	"github.com/pborman/getopt/v2"
 	"github.com/pkg/errors"
 )

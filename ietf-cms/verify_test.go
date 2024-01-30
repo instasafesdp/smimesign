@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/github/smimesign/ietf-cms/protocol"
+	"github.com/instasafesdp/smimesign/ietf-cms/protocol"
 	"golang.org/x/xerrors"
 )
 
